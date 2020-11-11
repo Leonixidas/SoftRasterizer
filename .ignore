@@ -1,0 +1,6 @@
+.ignore 
+bin/
+source/.vs
+source/TempFiles
+
+
